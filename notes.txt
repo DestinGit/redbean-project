@@ -1,0 +1,4 @@
+$ composer init
+$ composer require gabordemooij/redbean
+
+www.rotazu.com
